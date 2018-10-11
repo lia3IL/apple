@@ -1,0 +1,16 @@
+# bash
+pwd-where I am
+ls- show files
+mkdir- create folder 
+
+(edit notepad)
+
+#git Commands
+
+git init .
+git status
+git add
+git config --global user.name "lucia Albelda"
+git config --global user.email "luciaalbelda12@gmail.com"
+git commit -a -m "some message describing your change"
+git log 
